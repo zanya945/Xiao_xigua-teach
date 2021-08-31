@@ -1,13 +1,14 @@
 body{
     margin: 0;
-    background-image: url(./picture/2.jpg);
+    background-image: url(./picture/西瓜.jpg);
     height: auto;
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 @media (min-width: 650px){
     body{
-        background-image: url(./picture/西瓜.jpg);
+        background-image: url(./picture/4.jpg);
     }
 }
 
